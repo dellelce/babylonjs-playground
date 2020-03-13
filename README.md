@@ -1,5 +1,18 @@
 # babylonjs-playground
-working with Babylonjs
+
+## Objectives & Steps
+
+version 1: Develop molecule viewer based on gleborgne's molvwr (using pure javascript instead of typescript)
+
+version 2: Develop a molecule editor
+
+### "Version 1" steps
+
+* Review molvwr code
+* Define features that need to be used from "molvwr"
+* Define molecule data source
+* Setup source
+
 
 ## References
 
