@@ -2,6 +2,8 @@
 
 ## Objectives & Steps
 
+version 0: Have "molvwr" code running on docker
+
 version 1: Develop molecule viewer based on gleborgne's molvwr (using pure javascript instead of typescript)
 
 version 2: Develop a molecule editor
