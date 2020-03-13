@@ -1,0 +1,3 @@
+[submodule "molvwr"]
+	path = molvwr
+	url = git@github.com:gleborgne/molvwr.git
