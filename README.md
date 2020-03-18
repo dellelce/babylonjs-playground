@@ -18,4 +18,4 @@ version 2: Develop a molecule editor
 
 ## References
 
-* [https://github.com/gleborgne/molvwr](molvwr)
+* [molvwr](https://github.com/gleborgne/molvwr)
